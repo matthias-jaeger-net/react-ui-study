@@ -1,0 +1,22 @@
+{
+  "name": "react-ui-study",
+  "version": "1.0.0",
+  "description": "An experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthias-jaeger-net/react-ui-study.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthias-jaeger-net/react-ui-study/issues"
+  },
+  "homepage": "https://github.com/matthias-jaeger-net/react-ui-study#readme",
+  "dependencies": {
+    "@tabler/icons": "^1.38.1"
+  }
+}
